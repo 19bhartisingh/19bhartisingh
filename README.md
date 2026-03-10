@@ -100,13 +100,13 @@ me.say_hi()
 |:---|:---|
 | RNN · LSTM · Transformer · Generative AI | Power BI · SQL · Python · Seaborn |
 | End-to-end MIDI pipeline → melody generation | Multi-page dashboards with drill-down KPIs |
-| [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)](https://github.com/19bhartisingh) | [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)](https://github.com/19bhartisingh) |
+| [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)]([https://github.com/19bhartisingh](https://github.com/19bhartisingh/MelodAI/tree/main)) | [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)](https://github.com/19bhartisingh) |
 
-| 🖱️ Gesture-Controlled Virtual Mouse | 🔤 Next Word Predictor |
+| 🖱️ Gesture-Controlled Virtual Mouse | 🔤 Mnist Image Recognition |
 |:---|:---|
 | MediaPipe · OpenCV · PyAutoGUI | LSTM · NLP · Deep Learning |
 | Real-time hand gesture → OS mouse control | Text preprocessing pipeline + sequence model |
-| [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)](https://github.com/19bhartisingh) | [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)](https://github.com/19bhartisingh) |
+| [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)]([https://github.com/19bhartisingh](https://github.com/19bhartisingh/Gesture-Controlled-Mouse)) | [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)]([https://github.com/19bhartisingh](https://github.com/19bhartisingh/Mnist-Image-recognition)) |
 
 </div>
 
