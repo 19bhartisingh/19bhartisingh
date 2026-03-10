@@ -1,4 +1,4 @@
-< div align="center">
+
 
 <!-- Typing Animation Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Bharti+Singh+%F0%9F%91%8B;Data+Scientist+%7C+AI%2FML+Engineer;Building+Intelligent+Systems+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%93%8A)](https://git.io/typing-svg)
